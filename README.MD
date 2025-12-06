@@ -13,8 +13,6 @@ hasil penelitian machine learning di bidang kesehatan.
 riwayat merokok, dan parameter lain menjadi sebuah **skor risiko hipertensi**.
 Aplikasi akan menampilkan:
 
-- python app.py
-- source venv/Scripts/activate
 - kategori risiko: **Rendah / Sedang / Tinggi**
 - probabilitas risiko tinggi (dalam persen)
 - ringkasan input yang dimasukkan pengguna
